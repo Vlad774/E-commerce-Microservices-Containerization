@@ -24,12 +24,10 @@ This project involves containerizing a microservices-based e-commerce applicatio
 
 ## Walk-through:
 
-![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/diagramm.png) 
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/ec2.png) 
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/bitbucket.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/RDS.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/ELB.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/Build%20History.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/CodePipeline.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/test.png)
- ![First try](https://github.com/Vlad774/CICD_on_AWS/blob/main/Service_running.png)
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/Diagramma.png) 
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/microservices.png) 
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/vscode_microservices.png)
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/created.png)
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/build.png)
+ ![First try](https://github.com/Vlad774/E-commerce-Microservices-Containerization/blob/main/runnig%20services.png)
+ 
